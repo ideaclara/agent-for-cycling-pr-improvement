@@ -81,3 +81,7 @@ htmlcov/
 .DS_Store
 Thumbs.db
 ehthumbs.db
+
+
+# Other files to ignore
+documentation/potential_improvements.md
